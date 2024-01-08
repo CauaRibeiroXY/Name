@@ -23,7 +23,7 @@ O **NameGit** é uma ferramenta interativa que oferece uma maneira divertida e p
 
 bashCopy code
 
-`git clone [URL_DO_REPOSITÓRIO]` 
+`git clone [https://github.com/CauaRibeiroXY/Name]` 
 
 ### Navegação e Execução:
 
