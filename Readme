@@ -1,6 +1,7 @@
-NameGit - Gerador de Matriz com Datas e Git Commits
+# NameGit - Gerador de Nome no Perfil GitHub
 Descrição
-Este é um programa simples que gera uma matriz com um nome (ou outra sequência de letras) e mapeia cada letra para uma data específica. O usuário pode então optar por criar commits no Git para essas datas.
+Este é um programa simples que gera seu nome que você deseja para o quadro de commits
+##
 
 Pré-requisitos
 Python 3.x instalado em sua máquina.
@@ -12,14 +13,7 @@ bash
 Copy code
 git clone [URL_DO_REPOSITÓRIO]
 Navegue até o diretório:
-
-bash
-Copy code
 cd NameGit
-Execute o script:
-
-bash
-Copy code
 python NameGit.py
 Siga as instruções:
 
