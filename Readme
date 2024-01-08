@@ -1,0 +1,38 @@
+NameGit - Gerador de Matriz com Datas e Git Commits
+Descrição
+Este é um programa simples que gera uma matriz com um nome (ou outra sequência de letras) e mapeia cada letra para uma data específica. O usuário pode então optar por criar commits no Git para essas datas.
+
+Pré-requisitos
+Python 3.x instalado em sua máquina.
+Git instalado e configurado em sua máquina.
+Como usar
+Clonar o repositório:
+
+bash
+Copy code
+git clone [URL_DO_REPOSITÓRIO]
+Navegue até o diretório:
+
+bash
+Copy code
+cd NameGit
+Execute o script:
+
+bash
+Copy code
+python NameGit.py
+Siga as instruções:
+
+Quando solicitado, insira o nome ou letras que deseja representar.
+Digite o ano desejado para começar a gerar as datas.
+O programa mostrará a matriz com as datas mapeadas.
+Você terá a opção de fazer commits no Git para as datas mapeadas. Se desejar, siga as instruções adicionais fornecidas.
+Instruções Adicionais
+Certifique-se de que as dependências necessárias estejam instaladas.
+Ao optar por fazer commits no Git, certifique-se de estar no diretório correto e ter permissões para fazer commits.
+Estrutura do Projeto
+NameGit.py: Contém todo o código-fonte do programa.
+README.md: Este arquivo com instruções sobre como usar o programa.
+Notas
+Este é um projeto básico e pode ser expandido ou modificado conforme necessário.
+Se você encontrar algum problema ou tiver sugestões, sinta-se à vontade para contribuir ou entrar em contato.
