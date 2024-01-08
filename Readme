@@ -1,32 +1,14 @@
-# NameGit - Gerador de Nome no Perfil GitHub
-Descrição
-Este é um programa simples que gera seu nome que você deseja para o quadro de commits
-##
+# NameGit - Gerador de Nome para Perfil GitHub
 
-Pré-requisitos
-Python 3.x instalado em sua máquina.
-Git instalado e configurado em sua máquina.
-Como usar
-Clonar o repositório:
+## Descrição
+O **NameGit** é uma ferramenta simples desenvolvida para gerar um nome ou sequência personalizada para o quadro de commits do seu perfil GitHub. Esta aplicação permite que você visualize e mapeie datas específicas com base no nome ou letras escolhidos.
 
-bash
-Copy code
-git clone [URL_DO_REPOSITÓRIO]
-Navegue até o diretório:
-cd NameGit
-python NameGit.py
-Siga as instruções:
+## Pré-requisitos
+- Python 3.x instalado em sua máquina.
+- Git configurado e instalado no seu sistema.
 
-Quando solicitado, insira o nome ou letras que deseja representar.
-Digite o ano desejado para começar a gerar as datas.
-O programa mostrará a matriz com as datas mapeadas.
-Você terá a opção de fazer commits no Git para as datas mapeadas. Se desejar, siga as instruções adicionais fornecidas.
-Instruções Adicionais
-Certifique-se de que as dependências necessárias estejam instaladas.
-Ao optar por fazer commits no Git, certifique-se de estar no diretório correto e ter permissões para fazer commits.
-Estrutura do Projeto
-NameGit.py: Contém todo o código-fonte do programa.
-README.md: Este arquivo com instruções sobre como usar o programa.
-Notas
-Este é um projeto básico e pode ser expandido ou modificado conforme necessário.
-Se você encontrar algum problema ou tiver sugestões, sinta-se à vontade para contribuir ou entrar em contato.
+## Como Usar
+
+## Clonar o repositório:
+
+## Executar o codigo python
